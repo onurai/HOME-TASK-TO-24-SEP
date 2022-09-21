@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.exe
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.deps.json
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.runtimeconfig.json
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.dll
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.pdb
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.AssemblyInfo.cs
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.dll
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.pdb
+C:\Users\HP\source\repos\HOME TASK TO 24 SEP\HOME TASK TO 24 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 24 SEP.genruntimeconfig.cache
